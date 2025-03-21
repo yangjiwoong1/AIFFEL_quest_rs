@@ -1,3 +1,8 @@
+## AIFFEL_quest_rs
+Aiffel LMS에서 진행하는 프로젝트, 피어리뷰 관리 Repo
+
+---
+
 **레포구조**:
 ```bash
 AIFFEL_quest_cr
