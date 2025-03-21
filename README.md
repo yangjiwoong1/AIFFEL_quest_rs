@@ -5,7 +5,7 @@ Aiffel LMS에서 진행하는 프로젝트, 피어리뷰 관리 Repo
 
 **레포구조**:
 ```bash
-AIFFEL_quest_cr
+AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
 │   │   ├── .ipynb
