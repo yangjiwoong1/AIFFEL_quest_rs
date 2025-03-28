@@ -4,7 +4,7 @@
 
 
 # PRT(Peer Review Template)
-- [O]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+- [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - diabetes : 3000 이하의 MSE 만족 & 첫번째 컬럼에 대한예측 시각화 첨부
       ![image](https://github.com/user-attachments/assets/d9b51450-29a7-4297-8b46-abec1dc62ba4)
     - bike_sharing_demand : 150 이하의 RMSE 만족 & 데이터 개수 시각화 및 최종 결과 시각화 모두 첨부
@@ -12,7 +12,7 @@
       ![image](https://github.com/user-attachments/assets/7e638822-7aa3-4b71-84e2-c87e52ac5a43)
       ![image](https://github.com/user-attachments/assets/8b1b82c8-18cf-4fbc-8471-f1882a4b0e7d)
 
-- [O]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
+- [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 배운 내용과 거의 동일한 코드를 작성하는 Quest라 다르게 접근한 부분 위주로 평가하였습니다. 
     - predict 함수를 배운 내용과 다른 방식으로 작성했는데 이해하기 쉽게 주석을 달아두었습니다.
@@ -21,16 +21,16 @@
       ![image](https://github.com/user-attachments/assets/5f77e786-dee6-4490-ab4a-9deb411ebb50)
  
         
-- [O]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
+- [X]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
     - 바로 위에 나온 season 을 원핫 인코딩으로 변경한 부분도 새로운 시도로 볼 수 있습니다(중복이라 캡쳐 생략)
     - 학습률과 epoch 를 변경하며 실험한 내용이 기록되어있습니다.
       ![image](https://github.com/user-attachments/assets/7b995766-8b8f-48c0-bbca-78aac137a70c)
         
-- [X]  **4. 회고를 잘 작성했나요?**
+- [ ]  **4. 회고를 잘 작성했나요?**
     - 회고작성 안함. 회고를 코드내에 작성하는 것인지 몰라서 코드 설명시에 서로 회고 내용을 이야기했습니다.  
         
-- [O]  **5. 코드가 간결하고 효율적인가요?**
+- [X]  **5. 코드가 간결하고 효율적인가요?**
     - 전체적으로 효율적으로 작성된것으로 보입니다. 특히 예측 모델을 클래스화한 부분이 인상적이었습니다.
       ![image](https://github.com/user-attachments/assets/250ed595-2e89-46a1-ba1e-9ddf690725d5)
 
