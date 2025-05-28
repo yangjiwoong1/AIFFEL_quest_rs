@@ -1,4 +1,3 @@
-<img width="676" alt="image" src="https://github.com/user-attachments/assets/d41c7985-9225-4286-bc65-3094eda3ee37" /># AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 양지웅
 - 리뷰어 : 박민경
 
