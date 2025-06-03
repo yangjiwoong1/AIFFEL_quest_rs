@@ -1,10 +1,16 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 코더 : 양지웅
+- 리뷰어 : 김성훈
 
 
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+    - Simple Baseline 구현
+    - ![image](https://github.com/user-attachments/assets/8e9500a5-185e-4c97-97f8-9c5fa227cf15)
+
+    - 모델의 예측 결과
+    - ![image](https://github.com/user-attachments/assets/cced1a7a-0cfb-4dcd-9286-544ec4928cb7)
+    
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
     
